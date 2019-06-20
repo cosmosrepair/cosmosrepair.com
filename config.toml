@@ -10,7 +10,7 @@ pygmentsCodeFences = true
 pygmentsCodefencesGuessSyntax = true
 #pygmentsUseClassic = true
 #pygmentOptions = "linenos=inline"
-#disqusShortname = "XXX"
+disqusShortname = "cosmosrepair"
 #googleAnalytics = "XXX"
 
 [Params]
