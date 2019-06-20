@@ -1,16 +1,9 @@
 ---
 title: About me
-subtitle: Why you'd want to go on a date with me
 comments: false
 ---
+To see the world, things dangerous to come to, to see behind walls, draw closer, to find each other, and to fell. That is the purpose of life
 
-My name is Inigo Montoya. I have the following qualities:
+—— Walter Mitty
 
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+![](https://cosmosrepair-1257028016.cos.ap-beijing.myqcloud.com/2019-06-20-%E6%9C%AA%E5%91%BD%E5%90%8D-4.png)
