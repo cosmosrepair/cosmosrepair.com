@@ -1,7 +1,7 @@
 baseurl = "https://cosmosrepair.com"
 DefaultContentLanguage = "zh-cn"
 #DefaultContentLanguage = "ja"
-title = "cosmosrepair"
+title = "Cosmosrepair"
 theme = "beautifulhugo"
 metaDataFormat = "yaml"
 pygmentsStyle = "trac"
