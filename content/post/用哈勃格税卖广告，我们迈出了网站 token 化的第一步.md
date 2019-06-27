@@ -103,7 +103,9 @@ tags:
 很高兴能参与到这样一场关于哈勃格税的社会实验，并与我们 DOGIgame.com 的自身媒体属性找到了一个很好的契合点，未来这场实验将会如何推进，我们会进行持续的跟踪和报导，请继续关注。
 
 - - - - - 
+
 文章里涉及的一些参考资料及其他与哈勃格税相关的资料：
+
 1. 论文链接：<https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3243656>
 
 2. V 神 medium 发文： <https://medium.com/@VitalikButerin/liberation-through-radical-decentralization-22fc4bedc2ac>
