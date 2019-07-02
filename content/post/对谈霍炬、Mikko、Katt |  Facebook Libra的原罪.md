@@ -2,7 +2,7 @@
 title: 对谈霍炬、Mikko、Katt |  Facebook Libra 的原罪
 date: 2019-06-24
 author: Jade
-tags: ["blockchain"]
+tags: ["虚拟货币", "法律", "科技", "经济学"]
 ---
 
 几个有趣的灵魂，一件伟大的事。

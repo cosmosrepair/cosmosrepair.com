@@ -2,7 +2,7 @@
 title: 对话 Mikko | 世界上只有一种货币，而它不会是比特币
 date: 2019-02-13
 author: Jade & Mikko
-tags: 
+tags: ["虚拟货币", "经济学"]
 ---
 
 2019 宏观经济对谈。

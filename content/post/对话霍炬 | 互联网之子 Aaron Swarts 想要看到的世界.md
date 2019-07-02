@@ -2,7 +2,7 @@
 title: 对话霍炬 | 互联网之子 Aaron Swartz 想要看到的世界
 date: 2019-01-29
 author: Jade
-tags: 
+tags: ["开源", "互联网"]
 ---
 
 星辰大海和 Facebook。
