@@ -11,7 +11,7 @@ pygmentsCodefencesGuessSyntax = true
 #pygmentsUseClassic = true
 #pygmentOptions = "linenos=inline"
 disqusShortname = "cosmosrepair"
-#googleAnalytics = "XXX"
+googleAnalytics = "UA-143263720-1"
 
 [Params]
   homeTitle = "禅与宇宙维修艺术" # Set a different text for the header on the home page
