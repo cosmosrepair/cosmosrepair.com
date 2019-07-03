@@ -1,7 +1,7 @@
 ---
 title: 对话盐酥鸡 | 我们仍在为 JP Morgan 两百年前的灵魂打工
 date: 2019-04-17
-author: Jade
+author: Mable
 tags: ["区块链", "资本主义"]
 ---
 
@@ -9,9 +9,9 @@ tags: ["区块链", "资本主义"]
 
 <!--more-->
 
->  **盐酥鸡**  本名 Suji Yan，女装程序员，dimension.io CEO，反久久遛协议贡献者，Katt 的先生。微博：[-SujiYan-](https://weibo.com/tedko)。
+> **盐酥鸡**  本名 Suji Yan，女装程序员，dimension.io CEO，反久久遛协议贡献者，Katt 的先生。微博：[-SujiYan-](https://weibo.com/tedko)。
 
->  **Katt**  伊利诺伊大学香槟分校法学博士，dimension.io CFO，反久久遛协议起草者，盐酥鸡的太太。微博：[Orphan_Block](https://weibo.com/mrsautism)。
+> **Katt**  伊利诺伊大学香槟分校法学博士，dimension.io CFO，反久久遛协议起草者，盐酥鸡的太太。微博：[Orphan_Block](https://weibo.com/mrsautism)。
 
 > **Mable**  Nirvana Capital 合伙人，禅与宇宙维修技师，吐血的编辑。
 
