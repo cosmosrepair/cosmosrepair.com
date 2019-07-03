@@ -11,13 +11,13 @@ tags: ["虚拟货币", "法律", "科技", "经济学"]
 
 ![](https://cosmosrepair-1257028016.cos.ap-beijing.myqcloud.com/2019-06-24-%E6%9C%AA%E5%91%BD%E5%90%8D.png)
 
-> **Jade** BES (Blockchain Economics Studio) 创始人，禅与宇宙维修艺术公众号发起人。
+> Jade BES (Blockchain Economics Studio) 创始人，禅与宇宙维修艺术公众号发起人。
 
-> **Mikko** 货币学者，智堡网创始人。
+> Mikko 货币学者，智堡网创始人。
 
-> **霍炬** PressOne CTO，公众号《歪理邪说》作者。
+> 霍炬 PressOne CTO，公众号《歪理邪说》作者。
 
-> **Katt** UIUC 法律博士，信息科学博士（跑了）；空有一身屠龙术的无业游民；反 996 开源软件协议作者。
+> Katt UIUC 法律博士，信息科学博士（跑了）；空有一身屠龙术的无业游民；反 996 开源软件协议作者。
 
 ![](https://cosmosrepair-1257028016.cos.ap-beijing.myqcloud.com/2019-06-24-%E6%9C%AA%E5%91%BD%E5%90%8D-1.png)
 
