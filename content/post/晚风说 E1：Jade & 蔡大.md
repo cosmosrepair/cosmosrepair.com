@@ -11,7 +11,10 @@ tags: ["播客"]
 
 ![](https://cosmosrepair-1257028016.cos.ap-beijing.myqcloud.com/2019-08-02-WechatIMG2.jpeg)
 
+
 <iframe width="560" height="80" scrolling="no" frameborder="no" src="https://fireside.fm/s/trfV16OE+JAX8YWCt/iframe"></iframe>
+
+
 
 [禅与宇宙维修艺术](https://www.cosmosrepair.com)播客节目。
 
