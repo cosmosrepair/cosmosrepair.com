@@ -1,0 +1,53 @@
+---
+title: 晚风说 E1：Jade & 蔡大
+date: 2019-08-05
+author: Jade & 蔡大
+tags: ["播客"]
+---
+
+禅与宇宙维修艺术有播客啦！
+
+<!--more-->
+
+![](https://cosmosrepair-1257028016.cos.ap-beijing.myqcloud.com/2019-08-02-WechatIMG2.jpeg)
+
+[禅与宇宙维修艺术](https://www.cosmosrepair.com)播客节目。
+
+“晚风说”是禅与宇宙维修艺术公众号及播客下的人物对话系列。每期会由 Jade 记录和一个或几个朋友聊天的过程，探索一个灵魂，收集一个故事，或学习一种新识。有人曾经说，历史上最伟大的思想都是通过对话形式产生和被记录的。
+
+我们无意成就伟大，只是想在这个世界上好好玩耍。希望它对你，常常陪伴，偶尔启发。
+
+- - - - - 
+
+**# 本期朋友介绍**
+
+David Cai（蔡大），学数学的，逻辑大脑文艺小脑，喜欢唱 K 健身观影旅游。热爱 Rick and Morty 和攻壳机动队的可扩列。泛金融领域专精，区块链领域从业者，两个双胞胎小公主的奶爸。
+
+**# 如果你必须推荐一个**
+
+网站：[麦氪派（WaitsUn.com | 爱情守望者）](https://www.waitsun.com)，让 Mac 变成生产力工具
+电影：太多了推荐个除经典外主观印象最深的吧，触不可及 Intouchables
+公众号：TOMSinsight，互联网真正底层生态素描
+
+**# 本期关键词**
+
+生命、数学、区块链、金钱观、理想、成长
+
+**# 本期音乐**
+
+Intro - The xx
+Lullaby - The Cure
+
+————————————
+
+我们的播客系列还在测试阶段，欢迎提出意见及贡献力量（<hi@beslab.xyz>），Telegram 群：<https://t.me/cosmosrepair>，播客官网：<https://podcasts.cosmosrepair.com/>。
+
+通过搜索“禅与宇宙维修艺术”，你可以在以下地点找到我们：[微信公众号](https://cosmosrepair-1257028016.cos.ap-beijing.myqcloud.com/2019-08-04-qrcode_for_gh_9a7e409c3696_430.jpg)及[小程序](https://cosmosrepair-1257028016.cos.ap-beijing.myqcloud.com/2019-08-04-gh_ec0187a9be05_430.jpg)、[网易云音乐](https://music.163.com/#/program?id=2062485433)、[喜马拉雅](http://m.ximalaya.com/sound/202392912)、[Spotify](https://open.spotify.com/show/5SfJxMPMoqbGc2zG8ouiuD?si=QcavW9VXQiKTkTuBuWU8nA)、[荔枝 FM](https://www.lizhi.fm/37495201/5058020293930657926)、Google Music、Apple Podcasts 及其它泛用型播客客户端。
+
+Enjoy！
+
+相关链接：
+[麦氪派（WaitsUn.com | 爱情守望者）](https://www.waitsun.com/)
+[得意忘形播客 #53：去中心化时代的奇幻漂流](https://podcasts.apple.com/cn/podcast/53-%E5%8E%BB%E4%B8%AD%E5%BF%83%E5%8C%96%E6%97%B6%E4%BB%A3%E7%9A%84%E5%A5%87%E5%B9%BB%E6%BC%82%E6%B5%81/id1200767928?i=1000444854142)
+[“禅与宇宙维修艺术”官网](https://www.cosmosrepair.com/)
+[“禅与宇宙维修艺术”播客官网](https://podcasts.cosmosrepair.com/)
