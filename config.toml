@@ -68,15 +68,20 @@ googleAnalytics = "UA-143263720-1"
 #  telegram = "username"
 #  500px = "username"
 
-[[menu.main]]
-    name = "Blog"
-    url = ""
-    weight = 1
+# [[menu.main]]
+#    name = "Blog"
+#    url = ""
+#    weight = 1
 
 [[menu.main]]
     name = "About"
     url = "page/about/"
     weight = 3
+
+[[menu.main]]
+    name = "Podcasts"
+    url = "https://podcasts.cosmosrepair.com"
+    weight = 1    
 
 # [[menu.main]]
 #    identifier = "samples"
@@ -104,7 +109,7 @@ googleAnalytics = "UA-143263720-1"
 [[menu.main]]
     name = "Tags"
     url = "tags"
-    weight = 3
+    weight = 2
 
 # [[menu.main]]
 #   name = "archives"
