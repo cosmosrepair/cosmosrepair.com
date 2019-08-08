@@ -9,9 +9,7 @@ tags: ["播客", "晚风说"]
 
 <!--more-->
 
-<iframe src="https://open.spotify.com/embed-podcast/episode/1V1BMHeCBL7AmlEXTX0ClZ" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
-[禅与宇宙维修艺术](https://www.cosmosrepair.com)播客节目。
 
 “晚风说”是禅与宇宙维修艺术公众号及播客下的人物对话系列。每期会由 Jade 记录和一个或几个朋友聊天的过程，探索一个灵魂，收集一个故事，或学习一种新识。有人曾经说，历史上最伟大的思想都是通过对话形式产生和被记录的。
 
