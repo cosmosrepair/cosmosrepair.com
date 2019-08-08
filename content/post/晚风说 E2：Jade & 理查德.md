@@ -2,7 +2,7 @@
 title: 晚风说 E2：Jade & 理查德
 date: 2019-08-06
 author: Jade & 理查德
-tags: ["播客"]
+tags: ["播客", "晚风说"]
 ---
 
 这是一份礼物。
