@@ -9,7 +9,7 @@ tags: ["播客", "晚风说"]
 
 <!--more-->
 
-<iframe src="https://open.spotify.com/embed-podcast/episode/3l8XhrJDsdXPiXTO9kF86U" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+<iframe src="https://fireside.fm/player/v2/trfV16OE+8l5frIhe?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 
 [禅与宇宙维修艺术](https://www.cosmosrepair.com)播客节目。
 
