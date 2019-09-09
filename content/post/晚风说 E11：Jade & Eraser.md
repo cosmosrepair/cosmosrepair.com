@@ -9,7 +9,7 @@ You may say I’m a dreamer, but I’m not the only one.
 
 <!--more-->
 
-<iframe src="https://fireside.fm/player/v2/trfV16OE+Bv_amKBG?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://fireside.fm/player/v2/trfV16OE+Bv_amKBG?theme=light" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 
 [禅与宇宙维修艺术](https://www.cosmosrepair.com)播客节目，晚风说系列第十一期。
 
