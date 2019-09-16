@@ -1,5 +1,5 @@
 ---
-title: 晚风说 E11：Jade & JaVeRt
+title: 晚风说 E12：Jade & JaVeRt
 date: 2019-09-11
 author: Jade & JaVeRt
 tags: ["播客", "晚风说"]
