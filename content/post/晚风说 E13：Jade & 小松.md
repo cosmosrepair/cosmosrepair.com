@@ -83,7 +83,7 @@ Paradise - Bruce Springsteen
 
 Reality - The Retrosettles Sister Band
 
-————————————
+- - - - - 
 
 **# 我们接受 BTC 和 ETH 打赏**
 
@@ -91,7 +91,7 @@ BTC：3Gm3e79QrpbFSYC64GYm1jYezekCYk72gU
 
 ETH：0xE4cD2f942f9a9Cc1c1ABc897C784129B5C57a5bf
 
-————————————
+- - - - - 
 
 “晚风说”是禅与宇宙维修艺术公众号及播客下的人物对话系列。每期会由 Jade 记录和一个或几个朋友聊天的过程，探索一个灵魂，收集一个故事，或学习一种新识。有人曾经说，历史上最伟大的思想都是通过对话形式产生和被记录的。
 

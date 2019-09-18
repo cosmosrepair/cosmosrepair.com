@@ -1,0 +1,101 @@
+---
+title: 晚风说 E14：Jade & 少年阿段
+date: 2019-09-18
+author: Jade & 少年阿段
+tags: ["播客", "晚风说"]
+---
+
+一个活在幻想里的发光少年。
+
+<!--more-->
+
+<iframe src="https://fireside.fm/player/v2/trfV16OE+yQe-wCs6?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+
+[禅与宇宙维修艺术](https://www.cosmosrepair.com)播客节目，晚风说系列第十四期。
+
+**# 引言**
+
+一个神奇的夜晚，我看到了群里的陌生人对话，于是……（By Jade）
+
+![](https://tva1.sinaimg.cn/large/006y8mN6ly1g73ge6mvgwj30yc0l8teh.jpg)
+
+ **# 朋友介绍**
+
+少年阿段 :  最近在画画。
+
+92 年，女，本科浙江理工服装设计与营销毕业，研究生 RMIT ( FASHION ENTREPRENEURSHIP )；
+
+出生在重庆奉节；10 岁时因三峡大坝建造，举家搬迁至浙江，现杭州工作；
+
+性取向不明，也不重要，跟男生，女生，大叔谈过恋爱；
+
+写过很多系列的故事，暗恋的，生活的，男欢女爱的，励志的，旅游的，做菜的，断断续续地更新；
+
+尝试过介绍一些时尚品牌，日韩系偏多，相当粗浅；也玩过一段时间摄影，时尚街拍；也曾对心理学，教育学，创投圈产生好奇；
+
+以上所含领域都未往深处钻研，回顾下来，也算“一无是处”，前额叶没发育好；人各有各的难处，有各自需要解决的
+人生课题，金钱，情感，自我等等，问题有很多，一个一个解决。
+
+公众号：[少年阿段](https://mp.weixin.qq.com/s/o05Yq1prTvLiL_v4A7RTtw)；微博：[少年--阿段](https://weibo.com/u/1884803751)
+
+**# Highlights**
+
+认真许愿，宇宙光速帮你实现
+
+关于“幸运”的科学
+
+我写了几百篇没有读者的文章
+
+三峡移民，三次拆迁
+
+人，有时候要信命
+
+农村的童年，像一场梦
+
+离死亡最近的一次遇袭
+
+中国人的葬礼
+
+我对人的分类，没有“性别”这个标签
+
+特别容易 crush
+
+人生没能实现的，我会写下来
+
+梦想与现实，中间是放弃证明自己
+
+大脑的奖励机制
+
+性是一件很美好的事情，我要去画它
+
+如何找到一个“合伙人”
+
+一无所有，闪闪发光
+
+**# 本期音乐**
+
+Ship and the Globe - Kae Sun
+
+Step Step - Suran
+
+Lovin Ice Cream - As One / Ez-Life
+
+————————————
+
+**# 我们接受 BTC 和 ETH 打赏**
+
+BTC：3Gm3e79QrpbFSYC64GYm1jYezekCYk72gU
+
+ETH：0xE4cD2f942f9a9Cc1c1ABc897C784129B5C57a5bf
+
+————————————
+
+“晚风说”是禅与宇宙维修艺术公众号及播客下的人物对话系列。每期会由 Jade 记录和一个或几个朋友聊天的过程，探索一个灵魂，收集一个故事，或学习一种新识。有人曾经说，历史上最伟大的思想都是通过对话形式产生和被记录的。
+
+我们无意成就伟大，只是想在这个世界上好好玩耍。希望它对你，常常陪伴，偶尔启发。
+
+我们的播客系列还在测试阶段，欢迎提出意见及贡献力量。联系邮箱：<hi@beslab.xyz>，官网：<https://www.cosmosrepair.com>，播客官网：<https://podcasts.cosmosrepair.com/>，Telegram 群：<https://t.me/cosmosrepair>。
+
+通过搜索“禅与宇宙维修艺术”，你可以在以下地点找到我们：[微信公众号](https://cosmosrepair-1257028016.cos.ap-beijing.myqcloud.com/2019-08-04-qrcode_for_gh_9a7e409c3696_430.jpg)及[小程序](https://cosmosrepair-1257028016.cos.ap-beijing.myqcloud.com/2019-08-04-gh_ec0187a9be05_430.jpg)、[网易云音乐](https://music.163.com/#/djradio?id=793651380)、[喜马拉雅](https://www.ximalaya.com/zhubo/182662946/)、[Spotify](https://open.spotify.com/show/5SfJxMPMoqbGc2zG8ouiuD?si=QcavW9VXQiKTkTuBuWU8nA)、[Google Podcasts](https://podcasts.google.com/?feed=aHR0cHM6Ly9wb2RjYXN0cy5jb3Ntb3NyZXBhaXIuY29tL3Jzcw%3D%3D)、[Apple Podcasts](https://podcasts.apple.com/podcast/id1475254987) 及其它泛用型播客客户端。
+
+Enjoy！
