@@ -1,0 +1,96 @@
+---
+title: 晚风说 E15：Jade & 宅宇
+date: 2019-09-25
+author: Jade & 宅宇
+tags: ["播客", "晚风说"]
+---
+
+当冥想遇到神经科学。
+
+<iframe src="https://fireside.fm/player/v2/trfV16OE+xVzu1zIx?theme=light" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+
+[禅与宇宙维修艺术](https://www.cosmosrepair.com)播客节目，晚风说系列第十六期。
+
+**# 引言**  
+
+与宅宇老师两年未见，他结束了创业，恢复了单身，把关于冥想的电子书写完了第二版。不变的是，他身上那种踏实不焦虑的气质，和拆解事物本质，把思考当玩耍的习惯。有些朋友，就会是这种保持距离，但欣赏着对方成长的关系。聊到最后，我领悟到四个字，殊途同归。（By Jade）
+
+**# 朋友介绍** 
+
+宅宇：意识训练学院 & 一本册子创始人。早期在清华和斯坦福上学，硅谷工作。创立一本册子的初衷是通过 “互联网书”加速互联网结构化知识的流转，结果做成了个有创新性，但增长逻辑有问题的小生意。
+
+曾在硅谷期间习得冥想，而后机缘巧合用神经科学重构了冥想理论体系，在国内教授了 2 万余人，并成立意识训练学院推广冥想。平日喜欢分析商业，建模世界，与朋友深聊，玩体验性强的活动如风筝冲浪，篮球。
+
+扫描下方“一本册子”二维码，回复 “冥想” 即可得到电子书《冥想的原理与实践进阶》。
+
+![](https://tva1.sinaimg.cn/large/006y8mN6ly1g7ali3h5zsj3076076jru.jpg)
+
+**# Highlights**
+
+当冥想遇到神经科学
+
+冥想就是注意力目标管理
+
+我想改变人类知识系统的组织方式
+
+结构化，而非碎片化内容的分发
+
+我的创业项目，最终没能规模化
+
+每一个人都是个不断自我加强的价值体系
+
+我们真的有必要突破”信息茧房“吗
+
+我们真的有必要担心碎片化信息吗
+
+有关”注意力“的科学方法
+
+心理学知识神经科学的应用学科
+
+我曾把自己关进毫不透光的小黑屋
+
+冥想、气功、瑜伽的想通之处
+
+普通人应该理解的神经科学原理都有哪些
+
+练习冥想后，我已经不再受”信息“的限制
+
+斯坦福式的理想主义
+
+人生的下一阶段，我想从精神回归物质
+
+如何按照“第一性原理”去思考
+
+未来几十年，“知识阶级”将在中国崛起
+
+减肥的秘诀，是给自己囤很多蔬菜
+
+脑机接口，是这个世界最让我兴奋的事
+
+每一个人，都是人类大型中枢系统的一个神经元
+
+**# 音乐** 
+
+Shape of You - Ed Sheeran
+
+Remember The Name - Fort Minor / Style of Beyond
+
+————————————
+
+**# 我们接受 BTC 和 ETH 打赏**
+
+BTC：3Gm3e79QrpbFSYC64GYm1jYezekCYk72gU
+
+ETH：0xE4cD2f942f9a9Cc1c1ABc897C784129B5C57a5bf
+
+————————————
+
+“晚风说”是禅与宇宙维修艺术公众号及播客下的人物对话系列。每期会由 Jade 记录和一个或几个朋友聊天的过程，探索一个灵魂，收集一个故事，或学习一种新识。有人曾经说，历史上最伟大的思想都是通过对话形式产生和被记录的。
+
+我们无意成就伟大，只是想在这个世界上好好玩耍。希望它对你，常常陪伴，偶尔启发。
+
+我们的播客系列还在测试阶段，欢迎提出意见及贡献力量。联系邮箱：<hi@beslab.xyz>，官网：<https://www.cosmosrepair.com>，播客官网：<https://podcasts.cosmosrepair.com/>，Telegram 群：<https://t.me/cosmosrepair>。
+
+通过搜索“禅与宇宙维修艺术”，你可以在以下地点找到我们：[微信公众号](https://cosmosrepair-1257028016.cos.ap-beijing.myqcloud.com/2019-08-04-qrcode_for_gh_9a7e409c3696_430.jpg)及[小程序](https://cosmosrepair-1257028016.cos.ap-beijing.myqcloud.com/2019-08-04-gh_ec0187a9be05_430.jpg)、[网易云音乐](https://music.163.com/#/djradio?id=793651380)、[喜马拉雅](https://www.ximalaya.com/zhubo/182662946/)、[Spotify](https://open.spotify.com/show/5SfJxMPMoqbGc2zG8ouiuD?si=QcavW9VXQiKTkTuBuWU8nA)、[Google Podcasts](https://podcasts.google.com/?feed=aHR0cHM6Ly9wb2RjYXN0cy5jb3Ntb3NyZXBhaXIuY29tL3Jzcw%3D%3D)、[Apple Podcasts](https://podcasts.apple.com/podcast/id1475254987) 及其它泛用型播客客户端。
+
+Enjoy！
