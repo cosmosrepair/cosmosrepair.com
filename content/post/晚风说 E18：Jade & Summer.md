@@ -1,7 +1,7 @@
 ---
 title: 晚风说 E18：Jade & Summer
 date: 2019-10-27
-author: Mabke & 一更
+author: Jade & Summer
 tags: ["播客", "晚风说"]
 ---
 
