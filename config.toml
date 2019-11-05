@@ -111,6 +111,11 @@ googleAnalytics = "UA-143263720-1"
     url = "tags"
     weight = 2
 
+[[menu.main]]
+    name = "冥想课程"
+    url = "https://mxydnwxys.fireside.fm/"
+    weight = 4
+
 # [[menu.main]]
 #   name = "archives"
 #   url = "tags"
