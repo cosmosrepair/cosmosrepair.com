@@ -1,0 +1,82 @@
+---
+title: 晚风说 E61：Jade & 飞宇
+date: 2020-07-13
+author: Jade
+tags: ["播客", "晚风说"]
+---
+
+外星人、嬉皮士、手碟演奏家
+
+<!--more-->
+
+<iframe src="https://fireside.fm/player/v2/trfV16OE+l1M4Efug?theme=light" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+
+欢迎关注晚风说。希望我们对你，常常陪伴，偶尔启发。除了播客内容，我们还出品了[《冥想与大脑维修艺术》线上课程](https://mp.weixin.qq.com/s?__biz=MzA5Nzk4MDMxMg==&mid=2247484680&idx=1&sn=2a5b8f1e1f1c1e6820adf5cc95d997fe&chksm=9099dfffa7ee56e9408aa248731e3e3e502c984ca1e577decc28d66d458f2e93a600dc6d6b40&scene=21#wechat_redirect)，并发起了 [20 x 12 Club 线上冥想社群](https://mp.weixin.qq.com/s?__biz=MzA5Nzk4MDMxMg==&mid=2247484834&idx=1&sn=ebd2c537b12e63baef2e9eaac505c26b&chksm=9099df55a7ee5643ab84485931d52082bbb2a6ee7078bdd536faf2cbbcb7bb22783aeaf13d4b&scene=21#wechat_redirect)。
+
+————————————
+
+ **# 摘要**   
+ 
+ 外星人、嬉皮士、手碟演奏家
+
+**# 引言**
+
+采访完飞宇我才忽然意识到，他可能是中国历史上第一代嬉皮士的代表或雏形。大学毕业后他一天都没有工作过，先后在泰国、大理、上海流浪，过着没有计划，没有未来，但有技能，有同伴，有信念的嬉皮生活。
+
+我不能评价某种生活方式的好坏对错，更不能由个体推及到某种普世的价值观。但是，我总觉得这个社会应该看见并宽容更多的个体存在的可能性，尤其在我们正在经历的，即将到来的下一个充满变化的新时代。
+
+他像一叶扁舟，**顺着流走**。(By Jade)
+
+**# 朋友介绍**
+
+飞宇：
+
+一个不太熟悉人类语言系统，写不出来自我介绍的外星人。
+
+![](https://cosmosrepair-1257028016.cos.ap-beijing.myqcloud.com/screencapture-mp-weixin-qq-s-2020-07-13-08_30_49.png)
+
+**# Highlights**
+
+穿上外星人衣服，我就获得了一个新的身份
+
+一个外星人能否在社会中被接纳？
+
+我在泰国嬉皮部落的一年
+
+骑着马，带着乐器和酒，去泡野温泉
+
+如何定义真正的嬉皮士？
+
+在大理，我明白了当你知足，就会快乐
+
+从“纨绔子弟”到清贫背包客
+
+“顺着流走”，这四个字影响着我的一生
+
+刚来上海的时候，完全不知道自己要干什么
+
+手碟是一种纯即兴，不会错的乐器
+
+我害怕孤独，所以才设计了这些“借口”
+
+人的“意识”是外星人创造出来的
+
+我在东吉岛为一只死去的江豚超度
+
+你能抱着看电视剧的心情看自己的生活吗
+
+**# 音乐**
+
+共同体（FEAT.钟茂森博士）
+
+心电感应（FEAT.钟茂森博士）
+
+————————————
+
+你可以在这里找到我们：
+
+播客官网：https://podcasts.cosmosrepair.com/
+微信公众号：cosmosrepair
+Telegram 群：https://t.me/cosmosrepair
+
+各大声音平台或泛用型播客客户端搜索“禅与宇宙维修艺术”或“晚风说”。
