@@ -79,7 +79,7 @@ googleAnalytics = "UA-143263720-1"
     weight = 3
 
 [[menu.main]]
-    name = "Podcasts"
+    name = "播客"
     url = "https://podcasts.cosmosrepair.com"
     weight = 2    
 
