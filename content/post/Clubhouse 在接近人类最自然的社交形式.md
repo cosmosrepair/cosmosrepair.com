@@ -96,7 +96,7 @@ K 歌
 
 此时此刻的我坐在一个云南的小村子里，边听着 Elon Musk 在 live 群里聊火星计划，外星人，比特币，neuralink。我也曾在这个同样的角落连线远在地球另一端某个未曾谋面的嘉宾，访谈，录播客。如果说科技是美好的，那我觉得是这种弥除了物理空间限制的**人与人的连接**，最为美好。
 
-最后，奉送给大家我的搭档小胖写下的[《 Clubhouse 上手教程》](https://mp.weixin.qq.com/s?__biz=MzI0NzA1MDUzMg==&mid=2653116432&idx=1&sn=af99f275d0ed8041490ef33624425ee6&scene=21#wechat_redirect)，手把手教你怎么注册。
+最后，奉送给大家我的搭档小胖写下的[《 Clubhouse 上手教程》](https://www.littlefat.cn/2021/clubhouseshang-shou-jiao-cheng-482fca86)，手把手教你怎么注册。
 
 我知道由于中国地区 app 下载的复杂和邀请码的稀缺，以及中文内容的难找，身边的朋友试玩 CH 还是有很多障碍。为此我们也成立了 clubhouse 互助群，进群后，大家可以互相分享邀请码，共享节目信息，以及讨论 clubhouse 的使用和未来，如果需要请添加管理员微信：xiaopangljl。
 
