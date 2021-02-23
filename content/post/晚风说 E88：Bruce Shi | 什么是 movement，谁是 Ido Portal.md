@@ -9,6 +9,8 @@ movement culture 研习者及老师
 
 <!--more-->
 
+<iframe src="https://player.fireside.fm/v2/trfV16OE+TX202qon?theme=light" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+
 欢迎关注晚风说。希望我们对你，常常陪伴，偶尔启发。除了播客内容，我们还出品了[《冥想与大脑维修艺术》线上课程](https://mp.weixin.qq.com/s?__biz=MzA5Nzk4MDMxMg==&mid=2247484680&idx=1&sn=2a5b8f1e1f1c1e6820adf5cc95d997fe&chksm=9099dfffa7ee56e9408aa248731e3e3e502c984ca1e577decc28d66d458f2e93a600dc6d6b40&scene=21#wechat_redirect)，并发起了 [20 x 12 Club 线上冥想社群](https://mp.weixin.qq.com/s?__biz=MzA5Nzk4MDMxMg==&mid=2247484834&idx=1&sn=ebd2c537b12e63baef2e9eaac505c26b&chksm=9099df55a7ee5643ab84485931d52082bbb2a6ee7078bdd536faf2cbbcb7bb22783aeaf13d4b&scene=21#wechat_redirect)。
 
 ————————————
